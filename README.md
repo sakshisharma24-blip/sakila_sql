@@ -16,7 +16,7 @@ This project demonstrates hands-on SQL skills using the Sakila sample database. 
 
 🔹 **Tools & Skills Used**
 
-- SQL (MySQL / PostgreSQL compatible)
+- SQL (MySQL)
 
 - Joins (INNER JOIN)
 
